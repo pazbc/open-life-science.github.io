@@ -570,23 +570,13 @@ weeks:
       time: "09:00"
       duration: 90 min
       notes: https://bit.ly/ols-7-week-14
-      content: "In this call, participants will:\n- Learn how to apply FAIR research\
-        \ principles on data, software, training to make research \"as open as possible,\
-        \ as restricted as necessary.\"\n      \n        "
-      title: Diversity and Inclusion & Ally skills
+      content: "In this call, participants will:\n- Learn about ally skills and how to apply them\"\n      \n        "
+      title: Ally skills
       hosts:
-      - bebatut
+      - Esther Plomp, Rowland Mosbergen
       type: Cohort
-      after: '- Think about and plan to apply FAIR principles to your project in your
-        own time'
-      resources:
-      - link: https://drive.google.com/file/d/1Xofpeq6TUGKVhJRounufGnW62q_lewP6/view?usp=sharing
-        type: slides
-        title: 'Inclusion is not an afterthought or (Unconscious bias: Does it really
-          matter?)'
-      - link: https://docs.google.com/presentation/d/1aIdwn5Jc1OM5gW9h6GW69ZIDNA7W3s9806-i1gzhNp8/edit?usp=sharing
-        type: slides
-        title: Ally skills - Optional
+      after: '- Think about your potential role as an ally in your day to day work'
+     
   '15':
     start: June 05, 2023
     calls:
